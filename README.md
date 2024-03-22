@@ -9,7 +9,7 @@ README.md:
 
 ## Overview
 
-Welcome to the Predicting Employee Retention project repository! This project was completed as part of the capstone project for the  Google Advanced Data Analytics certificate program. In this project, we explore employee survey data from Salifort Motors, a fictional French-based alternative energy vehicle manufacturer, to develop a model that predicts employee retention.
+Welcome to the Predicting Employee churn rate project repository! This project was completed as part of the capstone project for the  Google Advanced Data Analytics certificate program. In this project, we explore employee survey data from Salifort Motors, a fictional French-based alternative energy vehicle manufacturer, to develop a model that predicts employee retention.
 
 ## Project Description
 
