@@ -19,8 +19,7 @@ As a data specialist working for Salifort Motors, the task was to analyze the re
 
 - data/: Directory containing the dataset used for analysis.
 - notebooks/: Directory containing Jupyter Notebooks detailing the data analysis, model building, and evaluation.
-- reports/: Directory containing the executive summary and any additional reports generated from the analysis.
-- scripts/: Directory containing any scripts used for data preprocessing or model training.
+- reports/: Directory containing the executive summary and a project proposal.
 - README.md: You are here! This file provides an overview of the project and repository contents.
 
 
@@ -28,15 +27,16 @@ As a data specialist working for Salifort Motors, the task was to analyze the re
 
 The project is structured as follows:
 
+- *Data Cleaning*: Removed the null and duplicate values.
 - *Data Exploration*: Exploratory Data Analysis (EDA) was conducted to gain insights into the dataset.
-- *Feature Engineering*: Relevant features were engineered based on EDA findings and domain knowledge.
-- *Model Building*: Regression (Logistic) and tree-based machine learning model (Decision Tree, Random forest, XGBoost) were trained and evaluated for predicting employee retention.
-- *Model Interpretation*: Results of the models were interpreted to understand the key factors influencing employee retention.
+- *Data Visualisation*: Various kinds of graphs were created to visualize the relationships between them.
+- *Model Building*: Regression (Logistic) and tree-based machine learning model (Decision Tree, Random forest, XGBoost) were trained and evaluated for predicting which employee would leave.
+- *Model Interpretation*: Results of the models were interpreted to understand the key factors influencing an employee's departure.
 - *Ethical Considerations*: Ethical implications of the analysis were considered throughout the project.
 
 ## Conclusion
 
-The Predicting Employee Retention project provides valuable insights into employee retention at Salifort Motors. By leveraging advanced data analytics techniques, I have developed a predictive model that can assist the senior leadership team in making informed decisions to improve employee retention strategies.
+This project provides valuable insights into employee retention at Salifort Motors. By leveraging advanced data analytics techniques, I have developed a predictive model that can assist the senior leadership team in making informed decisions to improve employee retention strategies.
 
 Thank you for visiting this repository! If you have any questions or feedback, feel free to reach out.
 
