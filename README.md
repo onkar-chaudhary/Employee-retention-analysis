@@ -30,7 +30,7 @@ To explore this project, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    
-   git clone https://github.com/onkarchaudhary/Employee-churn-prediction.git
+   git clone https://github.com/onkar-chaudhary/Employee-churn-prediction/tree/main.git
    
 
 2. Navigate to the project directory:
