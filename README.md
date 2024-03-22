@@ -23,25 +23,6 @@ As a data specialist working for Salifort Motors, the task was to analyze the re
 - scripts/: Directory containing any scripts used for data preprocessing or model training.
 - README.md: You are here! This file provides an overview of the project and repository contents.
 
-## Getting Started
-
-To explore this project, follow these steps:
-
-1. Clone this repository to your local machine using the following command:
-
-   
-   git clone https://github.com/onkar-chaudhary/Employee-churn-prediction/tree/main.git
-   
-
-2. Navigate to the project directory:
-
-   
-   cd Employee-churn-prediction
-   
-
-3. Explore the notebooks/ directory to view the Jupyter Notebooks containing the data analysis and model building process.
-
-4. Check out the reports/ directory for the executive summary and any additional reports generated from the analysis.
 
 ## Project Structure
 
