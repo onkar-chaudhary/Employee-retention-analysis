@@ -30,13 +30,13 @@ To explore this project, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    
-   git clone https://github.com/AniketLahiri2003/predicting-employee-retention.git
+   git clone https://github.com/onkarchaudhary/Employee-churn-prediction.git
    
 
 2. Navigate to the project directory:
 
    
-   cd predicting-employee-retention
+   cd Employee-churn-prediction
    
 
 3. Explore the notebooks/ directory to view the Jupyter Notebooks containing the data analysis and model building process.
