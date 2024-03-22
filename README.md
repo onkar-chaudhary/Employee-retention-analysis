@@ -30,7 +30,7 @@ The project is structured as follows:
 
 - *Data Exploration*: Exploratory Data Analysis (EDA) was conducted to gain insights into the dataset.
 - *Feature Engineering*: Relevant features were engineered based on EDA findings and domain knowledge.
-- *Model Building*: Regression(Logistic) and tree-based machine learning model (Decision Tree) were trained and evaluated for predicting employee retention.
+- *Model Building*: Regression (Logistic) and tree-based machine learning model (Decision Tree, Random forest, XGBoost) were trained and evaluated for predicting employee retention.
 - *Model Interpretation*: Results of the models were interpreted to understand the key factors influencing employee retention.
 - *Ethical Considerations*: Ethical implications of the analysis were considered throughout the project.
 
