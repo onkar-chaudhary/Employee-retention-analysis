@@ -1,4 +1,4 @@
-# Employee_Churn_Prediction
+# Employee_retention_analysis
 This project analyzes employee survey data from Salifort Motors, a fictional electric vehicle manufacturer, to predict if an employee would leave the company. It utilizes a [chosen model type (regression or tree-based machine learning)] model to identify factors influencing departure of an employee and provide insights for improving employee satisfaction.
 
 ## Title: Predicting Employee Churn rate at Salifort Motors (Hypothetical Dataset)
